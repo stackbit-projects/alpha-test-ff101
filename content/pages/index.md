@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Homenew
 layout: PageLayout
 sections:
   - type: TestimonialsSection
