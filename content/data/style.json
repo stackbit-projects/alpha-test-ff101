@@ -30,9 +30,5 @@
     "buttonPrimary": {
         "radius": 0,
         "case": "none"
-    },
-    "buttonSecondary": {
-        "radius": 0,
-        "case": "none"
     }
 }
